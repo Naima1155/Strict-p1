@@ -359,8 +359,7 @@ a:hover{
 }
 
 .footer img{
-    padding-top: 25px;
-    margin-left: 5px;
+    float:right;
     height: 65px;
 
 }
